@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0e86eff-e512-4a31-8239-ace71e007c2f" name="Default Changelist" comment="" />
+    <list default="true" id="f0e86eff-e512-4a31-8239-ace71e007c2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_src/_hkcosm_1.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css_src/_hkcosm_1.scss" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,7 +18,7 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css_src/style.scss">
               <provider selected="true" editor-type-id="text-editor">
@@ -35,7 +39,6 @@
                     <element signature="e#2557#2562#0" expanded="true" />
                     <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
-                    <element signature="e#6235#6240#0" expanded="true" />
                     <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#ul#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
@@ -51,7 +54,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html_src/hkcosm_2_1.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="406">
+                <state relative-caret-position="475">
                   <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
                   <folding>
                     <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -63,24 +66,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_1.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="196">
-                  <caret line="478" lean-forward="true" selection-start-line="478" selection-end-line="478" />
-                  <folding>
-                    <element signature="e#9938#10316#0" />
-                    <element signature="e#10341#10723#0" />
-                  </folding>
+                <state relative-caret-position="473">
+                  <caret line="517" lean-forward="true" selection-start-line="517" selection-end-line="517" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="475">
-                  <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+                  <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
                 </state>
               </provider>
             </entry>
@@ -89,7 +88,7 @@
             <entry file="file://$PROJECT_DIR$/html/hkcosm_2_1.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="190">
-                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+                  <caret line="10" selection-start-line="10" selection-end-line="10" />
                 </state>
               </provider>
             </entry>
@@ -106,12 +105,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/hkcosm_1.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
                   <folding>
                     <element signature="e#2557#2562#0" expanded="true" />
                     <element signature="e#6244#6249#0" expanded="true" />
@@ -120,14 +119,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_2_1.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#367#424#0" />
-                  </folding>
+                <state relative-caret-position="437">
+                  <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -148,6 +144,9 @@
       <find>../</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -157,8 +156,8 @@
         <option value="$PROJECT_DIR$/css_src/style.scss" />
         <option value="$PROJECT_DIR$/html_src/hkcosm_2_1.html" />
         <option value="$PROJECT_DIR$/css_src/_hkcosm_2_1.scss" />
-        <option value="$PROJECT_DIR$/css_src/_hkcosm_1.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css_src/_hkcosm_1.scss" />
       </list>
     </option>
   </component>
@@ -173,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,7 +204,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,31 +274,32 @@
       <option name="presentableId" value="Default" />
       <updated>1552717380112</updated>
       <workItem from="1552717381284" duration="21431000" />
+      <workItem from="1552806001027" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21431000" />
+    <option name="totallyTimeSpent" value="21509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" sideWeight="0.5005417" side_tool="true" visible="true" weight="0.24973656" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Gulp" order="2" sideWeight="0.5010846" side_tool="true" visible="true" weight="0.24973656" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20260021" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20173536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -338,20 +338,6 @@
     <entry file="file://$USER_HOME$/Desktop/hkcosm_copy/css_src/_commons.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_commons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css_src/_reset.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -359,14 +345,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/hkcosm_1.html">
+    <entry file="file://$PROJECT_DIR$/css_src/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding>
-            <element signature="e#2557#2562#0" expanded="true" />
-            <element signature="e#6244#6249#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -380,7 +362,6 @@
             <element signature="e#2557#2562#0" expanded="true" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6235#6240#0" expanded="true" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#ul#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
@@ -392,26 +373,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/hkcosm_2_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_2_1.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#367#424#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html_src/hkcosm_2_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
+        <state relative-caret-position="475">
           <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -422,21 +386,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_1.scss">
+    <entry file="file://$PROJECT_DIR$/html/hkcosm_2_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="478" lean-forward="true" selection-start-line="478" selection-end-line="478" />
-          <folding>
-            <element signature="e#9938#10316#0" />
-            <element signature="e#10341#10723#0" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_commons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_2_1.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/hkcosm_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#2557#2562#0" expanded="true" />
+            <element signature="e#6244#6249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_1.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="517" lean-forward="true" selection-start-line="517" selection-end-line="517" />
         </state>
       </provider>
     </entry>
