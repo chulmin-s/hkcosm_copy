@@ -2,9 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e86eff-e512-4a31-8239-ace71e007c2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css_src/_hkcosm_3_1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css_src/_hkcosm_4_1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css_src/_hkcosm_5_1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css_src/_hkcosm_6_1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_src/hkcosm_3_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_src/hkcosm_4_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_src/hkcosm_5_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_src/hkcosm_6_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/hkcosm_2_1_bgwrap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/location_map1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/location_map1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/location_map2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/overview_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/overview_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/overview_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/overview_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/overview_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_2_1/prcenter_video_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/branding_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/branding_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/consulting_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/consulting_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/design_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/design_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/hkcosm_3_1_contents1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/hkcosm_3_1_contents2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/hkcosm_3_1_contents3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_3_1/subvisual_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_4_1/hkcosm_4_1_contents1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_4_1/hkcosm_4_1_contents2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_4_1/hkcosm_4_1_contents3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_4_1/subvisual_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/distribution_slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/distribution_slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/distribution_slide_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/distribution_slide_prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/hkcosm_5_1_contents1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/hkcosm_5_1_contents2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/hkcosm_5_1_contents3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/iso_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/iso_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/iso_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/iso_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_5_1/subvisual_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hkcosm_6_1/subvisual_5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_src/_commons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css_src/_commons.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css_src/_hkcosm_1.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css_src/_hkcosm_1.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_src/_hkcosm_2_1.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css_src/_hkcosm_2_1.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css_src/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/hkcosm_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/hkcosm_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/hkcosm_2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/hkcosm_2_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_src/hkcosm_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_src/hkcosm_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_src/hkcosm_2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_src/hkcosm_2_1.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,21 +70,25 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css_src/style.scss">
+            <entry file="file://$PROJECT_DIR$/html/hkcosm_1.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+                <state>
+                  <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+                  <folding>
+                    <element signature="e#2557#2562#0" expanded="true" />
+                    <element signature="e#6244#6249#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html_src/hkcosm_1.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="247">
-                  <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+                <state relative-caret-position="463">
+                  <caret line="230" column="47" lean-forward="true" selection-start-line="230" selection-start-column="47" selection-end-line="230" selection-end-column="47" />
                   <folding>
                     <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -43,7 +99,6 @@
                     <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#ul#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#select#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
@@ -51,79 +106,36 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/html_src/hkcosm_2_1.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="475">
-                  <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
-                  <folding>
-                    <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#ul#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_1.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="473">
-                  <caret line="517" lean-forward="true" selection-start-line="517" selection-end-line="517" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="475">
-                  <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/html/hkcosm_2_1.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="190">
-                  <caret line="10" selection-start-line="10" selection-end-line="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css_src/_commons.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="114">
-                  <caret line="6" selection-start-line="6" selection-end-line="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/html/hkcosm_1.html">
+            <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_1.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+                <state relative-caret-position="173">
+                  <caret line="361" column="25" selection-start-line="361" selection-start-column="25" selection-end-line="361" selection-end-column="25" />
                   <folding>
-                    <element signature="e#2557#2562#0" expanded="true" />
-                    <element signature="e#6244#6249#0" expanded="true" />
+                    <element signature="e#7#2533#0" />
+                    <element signature="e#2546#2567#0" />
+                    <element signature="e#2575#2868#0" />
+                    <element signature="e#2881#4780#0" />
+                    <element signature="e#4789#5865#0" />
+                    <element signature="e#5875#7314#0" />
+                    <element signature="e#7379#7449#0" />
+                    <element signature="e#7503#7559#0" />
+                    <element signature="e#7574#7970#0" />
+                    <element signature="e#7982#8568#0" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_2_1.scss">
+            <entry file="file://$PROJECT_DIR$/css_src/_reset.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+                <state relative-caret-position="135">
+                  <caret line="36" selection-start-line="36" selection-end-line="37" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -142,6 +154,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>../</find>
+      <find>overview-contents-list-img</find>
+      <find>contents-table-summary-th</find>
+      <find>table-summary-th</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,22 +165,33 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css_src/_reset.scss" />
-        <option value="$PROJECT_DIR$/html_src/hkcosm_1.html" />
-        <option value="$PROJECT_DIR$/css_src/_commons.scss" />
-        <option value="$PROJECT_DIR$/css_src/style.scss" />
-        <option value="$PROJECT_DIR$/html_src/hkcosm_2_1.html" />
-        <option value="$PROJECT_DIR$/css_src/_hkcosm_2_1.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css_src/_commons.scss" />
+        <option value="$PROJECT_DIR$/html_src/hkcosm_2_1.html" />
+        <option value="$PROJECT_DIR$/html_src/hkcosm_3_1.html" />
+        <option value="$PROJECT_DIR$/html_src/hkcosm_4_1.html" />
+        <option value="$PROJECT_DIR$/html_src/hkcosm_5_1.html" />
+        <option value="$PROJECT_DIR$/css_src/style.scss" />
+        <option value="$PROJECT_DIR$/html_src/hkcosm_6_1.html" />
+        <option value="$PROJECT_DIR$/css_src/_hkcosm_3_1.scss" />
+        <option value="$PROJECT_DIR$/css_src/_hkcosm_4_1.scss" />
+        <option value="$PROJECT_DIR$/css_src/_hkcosm_5_1.scss" />
+        <option value="$PROJECT_DIR$/css_src/_hkcosm_2_1.scss" />
+        <option value="$PROJECT_DIR$/css_src/_hkcosm_6_1.scss" />
+        <option value="$PROJECT_DIR$/html_src/hkcosm_1.html" />
+        <option value="$PROJECT_DIR$/css_src/_reset.scss" />
         <option value="$PROJECT_DIR$/css_src/_hkcosm_1.scss" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="575" />
-    <option name="y" value="126" />
+    <option name="x" value="392" />
+    <option name="y" value="249" />
     <option name="width" value="1296" />
     <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -198,6 +224,11 @@
             <path>
               <item name="hkcosm_copy" type="b2602c69:ProjectViewProjectNode" />
               <item name="hkcosm_copy" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hkcosm_copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hkcosm_copy" type="462c0819:PsiDirectoryNode" />
               <item name="js_src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -216,12 +247,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SCSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\hkcosm_copy\images\hkcosm_3_1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\project\hkcosm_copy" />
-      <recent name="C:\project\hkcosm_copy\images\hkcosm_2_1" />
+      <recent name="C:\project\hkcosm_copy\images\hkcosm_6_1" />
       <recent name="C:\project\hkcosm_copy\css_src" />
       <recent name="C:\project\hkcosm_copy\html_src" />
-      <recent name="C:\project\hkcosm_copy\images" />
+      <recent name="C:\project\hkcosm_copy\images\hkcosm_5_1" />
+      <recent name="C:\project\hkcosm_copy\images\hkcosm_4_1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,23 +309,24 @@
       <updated>1552717380112</updated>
       <workItem from="1552717381284" duration="21431000" />
       <workItem from="1552806001027" duration="78000" />
+      <workItem from="1552806203224" duration="31885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21509000" />
+    <option name="totallyTimeSpent" value="53394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972826" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Gulp" order="2" sideWeight="0.5010846" side_tool="true" visible="true" weight="0.24973656" />
+      <window_info id="Gulp" order="2" sideWeight="0.5027174" side_tool="true" visible="true" weight="0.24973656" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20173536" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20173536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -315,11 +350,6 @@
     <entry file="file://$PROJECT_DIR$/js_src/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-741" />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/hkcosm_copy/html/hkcosm_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -338,72 +368,10 @@
     <entry file="file://$USER_HOME$/Desktop/hkcosm_copy/css_src/_commons.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_reset.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_src/hkcosm_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#2557#2562#0" expanded="true" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#ul#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#select#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_src/hkcosm_2_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#ul#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/hkcosm_2_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css_src/_commons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_2_1.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -414,10 +382,161 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_src/hkcosm_2_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/hkcosm_2_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_src/hkcosm_3_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="95" column="54" selection-start-line="95" selection-start-column="54" selection-end-line="95" selection-end-column="54" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/hkcosm_3_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/hkcosm_4_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_src/hkcosm_4_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="92" column="32" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/hkcosm_5_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_src/hkcosm_5_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="88" column="25" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/hkcosm_6_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_3_1.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="74" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_4_1.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="74" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_5_1.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="74" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_2_1.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_src/hkcosm_6_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="83" column="50" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_6_1.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+          <folding>
+            <element signature="e#429#485#0" />
+            <element signature="e#782#806#0" />
+            <element signature="e#828#871#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/hkcosm_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
           <folding>
             <element signature="e#2557#2562#0" expanded="true" />
             <element signature="e#6244#6249#0" expanded="true" />
@@ -425,10 +544,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html_src/hkcosm_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="230" column="47" lean-forward="true" selection-start-line="230" selection-start-column="47" selection-end-line="230" selection-end-column="47" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#2557#2562#0" expanded="true" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#select#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="36" selection-start-line="36" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css_src/_hkcosm_1.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="517" lean-forward="true" selection-start-line="517" selection-end-line="517" />
+        <state relative-caret-position="173">
+          <caret line="361" column="25" selection-start-line="361" selection-start-column="25" selection-end-line="361" selection-end-column="25" />
+          <folding>
+            <element signature="e#7#2533#0" />
+            <element signature="e#2546#2567#0" />
+            <element signature="e#2575#2868#0" />
+            <element signature="e#2881#4780#0" />
+            <element signature="e#4789#5865#0" />
+            <element signature="e#5875#7314#0" />
+            <element signature="e#7379#7449#0" />
+            <element signature="e#7503#7559#0" />
+            <element signature="e#7574#7970#0" />
+            <element signature="e#7982#8568#0" />
+          </folding>
         </state>
       </provider>
     </entry>

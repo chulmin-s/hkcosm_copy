@@ -1,9 +1,7 @@
-.visual{
+.subVisual{
     width:100%;
     height:360px;
     color:#fff;
-    background:url("../images/hkcosm_2_1/subvisual_1.jpg")no-repeat;
-    background-size:cover;
     display:table;
 
     &-wrap{
@@ -14,13 +12,258 @@
         &-title{
             font-size:42px;
             font-weight: 300;
-            margin-bottom:29px;
         }
 
         &-text{
             font-size:20px;
             font-weight: 300;
+            letter-spacing:-1px;
+            margin-top:29px;
         }
     }
 
+}
+
+.since{
+    background:url("../images/hkcosm_2_1/subvisual_1.jpg")no-repeat center;
+    background-size:cover;
+}
+.contents{
+    padding:120px 0;
+    text-align: center;
+
+    &-title{
+        font-size:30px;
+        font-weight:300;
+        line-height:1.3;
+        margin-bottom:15px;
+        letter-spacing:-1px;
+    }
+
+    &-text{
+        color:#747474;
+        font-size:16px;
+        font-weight:300;
+        line-height:1.6;
+        letter-spacing:-1px;
+    }
+}
+
+.overview{
+
+    &-wrap{
+        width:1170px;
+        margin:0 auto;
+    }
+
+    &-img{
+        height:585px;
+        background:url("../images/hkcosm_2_1/hkcosm_2_1_bgwrap.jpg")no-repeat center fixed;
+        background-size:cover;
+    }
+
+    &-contents{
+        height:530px;
+        text-align:center;
+        padding:120px 0;
+        box-sizing:border-box;
+
+        &-title{
+            font-size:22px;
+            color:#2b2b2b;
+            font-weight:500;
+            letter-spacing:-1px;
+            margin-bottom:57px;
+        }
+
+        &-list{
+
+            &:after{
+                display:block;
+                content:"";
+                clear:both;
+            }
+
+            &-item{
+                width:16.6667%;
+                float:left;
+                padding-left:20px;
+                padding-right:20px;
+                box-sizing:border-box;
+                position: relative;
+
+                &:after{
+                    display:block;
+                    content:"";
+                    width:1px;
+                    height:47px;
+                    background:#e0e0e0;
+                    position: absolute;
+                    top:0;
+                    right:0;
+                }
+                &:nth-child(1){
+                    margin-left:97px;
+                }
+                &:last-child{
+                    &:after{
+                        display:none;
+                    }
+                }
+            }
+
+            &-text{
+                margin-top:27px;
+                letter-spacing:-1.3px;
+
+                &-title{
+                    color:#1a1a1a;
+                    margin-bottom:10px;
+                }
+                &-con{
+                    color:#747474;
+                    font-weight:300;
+                    line-height:1.6;
+                }
+
+            }
+        }
+    }
+}
+
+.prCenter{
+    padding:120px 0;
+    background:#333333;
+    text-align:center;
+    color:#fff;
+
+    &-title{
+        font-size: 22px;
+        font-weight:500;
+        margin-bottom:50px;
+    }
+
+    &-video{
+        width:100%;
+        height:636px;
+        position: relative;
+        padding:0 20px;
+        box-sizing: border-box;
+        z-index:10;
+
+        & iframe{
+            width:100%;
+            height:100%;
+        }
+
+        &-img{
+            position: absolute;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+            padding:0 20px;
+            box-sizing: border-box;
+        }
+
+        & img{
+            width:100%;
+            height:100%;
+        }
+    }
+
+    &-heading{
+        font-size:30px;
+        font-weight:200;
+        line-height:1.3;
+        letter-spacing:-2px;
+        margin-top:35px;
+    }
+
+    &-text{
+        font-size:16px;
+        font-weight:200;
+        line-height:1.6;
+        letter-spacing:-1px;
+        margin-top:38px;
+    }
+}
+
+.location{
+    padding:120px 0;
+    background:#fff;
+
+    &-title{
+        font-size: 22px;
+        font-weight:500;
+        margin-bottom:50px;
+        text-align:center;
+        color:#2b2b2b;
+        letter-spacing:-1px;
+    }
+
+    &-list{
+
+        &:after{
+            display:block;
+            content:"";
+            clear:both;
+        }
+        &-item{
+            width:50%;
+            padding:0 20px;
+            box-sizing: border-box;
+            float:left;
+        }
+
+        &-map{
+            font-size:0;
+            margin-bottom:40px;
+
+            & img{
+                width:100%;
+            }
+
+        }
+
+        &-table{
+            border:0;
+            color:#747474;
+            font-weight:400;
+
+            & caption{
+                font-size:20px;
+                text-align:left;
+                color:#000;
+                background:url(../images/hkcosm_2_1/location_map1_1.jpg)no-repeat;
+                padding-left:47px;
+                padding-top:10px;
+                height:32px;
+                background-size:32px;
+                margin-bottom:10px;
+                letter-spacing:-2px;
+            }
+
+            & th{
+                width:80px;
+            }
+
+            & th,td{
+                line-height:1.6;
+                letter-spacing:-1px;
+                padding-top:5px;
+                font-family: "Noto Sans KR", sans-serif;
+            }
+
+            .middle{
+                vertical-align: middle;
+            }
+
+            & span{
+                color:#ca566c
+            }
+
+
+        }
+    }
 }

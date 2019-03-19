@@ -39,11 +39,21 @@
                 &-item{
                     float:left;
                     margin-left:15px;
+
+                    &:first-child{
+                        .lang-list-link{
+                            color:#281c4f;
+                        }
+                    }
                 }
 
                 &-link{
                     font-size:14px;
                     color:#b0b0b0;
+
+                    &:hover{
+                        color:#281c4f;
+                    }
                 }
             }
         }
@@ -348,15 +358,13 @@
 .footer{
     height:278px;
     background:#2c2937;
+    padding-top:54px;
+    box-sizing:border-box;
 
     &:after{
         display:block;
         content:"";
         clear:both;
-    }
-
-    &-con{
-        padding:54px 0;
     }
 
     &-logo{
@@ -420,7 +428,7 @@
 
     &-site{
 
-        &:before{
+        &:after{
             display:block;
             content:"";
             clear:both;
@@ -463,70 +471,83 @@
                 font-size: 14px;
             }
         }
-    }
 
-    &-contactUs{
-        float:right;
+        &-contactUs{
+            float:right;
+            width:33.3334%;
+            position: relative;
 
-        &-link{
-            display:inline-block;
-            font-size:30px;
-            font-weight:500;
-            color:#fff;
-            position:relative;
-            padding-right:160px;
-            transition:all .4s ease-out;
-
-            &-arrow{
-                position: absolute;
-                top:50%;
-                right:0;
-                height:1px;
-                width:58px;
-                background:#fff;
+            &-link{
+                display:inline-block;
+                width:100%;
+                color: #fff;
+                font-size: 30px;
                 transition:all .4s ease-out;
 
-                &:before{
-                    display:block;
-                    content:"";
-                    width:6px;
+                & span{
+                    display:inline-block;
+                    width:58px;
                     height:1px;
-                    background:#fff;
-                    transform:rotate(45deg);
-                    position:absolute;
-                    top:-3px;
+                    background:#f5f5f6;
+                    position: absolute;
                     right:0;
-                    transition:all .3s ease-out;
-                }
+                    top:50%;
+                    transition:all .4s ease-out;
 
-                &:after{
-                    display:block;
-                    content:"";
-                    width:6px;
-                    height:1px;
-                    background:#fff;
-                    transform:rotate(-45deg);
-                    position:absolute;
-                    bottom:-3px;
-                    right:0;
-                    transition:all .3s ease-out;
-                }
-            }
+                    &:before{
+                        display:block;
+                        content:"";
+                        position: absolute;
+                        right:-3px;
+                        bottom:2.5px;
+                        width:8px;
+                        height:1px;
+                        background:#f5f5f6;
+                        transition:all .4s ease-out;
+                        transform:rotate(45deg);
+                        -webkit-transform:rotate(45deg);
+                        -moz-transform:rotate(45deg);
+                        -ms-transform:rotate(45deg);
+                        -o-transform:rotate(45deg);
 
-            &:hover{
-                color:#8da6d4;
 
-                .footer-contactUs-link-arrow{
-                    background:#8da6d4;
-                    &:before,&:after{
-                        background:#8da6d4;
+                    }
+
+                    &:after{
+                        display:block;
+                        content:"";
+                        position: absolute;
+                        right:-3px;
+                        bottom:-2.5px;
+                        width:8px;
+                        height:1px;
+                        background:#f5f5f6;
+                        transition:all .4s ease-out;
+                        transform:rotate(-45deg);
+                        -webkit-transform:rotate(-45deg);
+                        -moz-transform:rotate(-45deg);
+                        -ms-transform:rotate(-45deg);
+                        -o-transform:rotate(-45deg);
+
                     }
                 }
+
+                &:hover{
+                    color:#8da6d4;
+                    & span{
+                        background:#8da6d4;
+                        &:before,&:after{
+                            background:#8da6d4;
+                        }
+                    }
+                }
+
+
             }
 
+
+
         }
-
-
-
     }
+
 }
