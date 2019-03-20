@@ -8,6 +8,92 @@
     margin:0 auto;
 }
 
-.subVisual{
+.moreBtn{
+    width:140px;
+    height:40px;
+    position:relative;
+    margin:15px auto 0 auto;
 
+    &:before{
+        display:block;
+        content:"";
+        position:absolute;
+        left:50%;
+        bottom:0;
+        transform:translateX(-50%);
+        width:94px;
+        height:1px;
+        background:#b7b3b5;
+    }
+    &:after{
+        display:block;
+        content:"";
+        position:absolute;
+        width:1px;
+        height:0;
+        background:#b7b3b5;
+        bottom:0;
+        left:0;
+    }
+
+    &:hover {
+        &:before {
+            width: 100%;
+            transition: all 0.06s;
+        }
+
+        &:after {
+            height: 100%;
+            transition: all 0.08s;
+            transition-delay: 0.06s;
+        }
+
+        a {
+            &:before {
+                height: 100%;
+                transition: all 0.3s;
+                transition-delay: 0.06s;
+            }
+
+            &:after {
+                width: 100%;
+                transition: all 1s;
+                transition-delay: 0.2s;
+            }
+        }
+    }
+
+    &-link{
+        display:inline-block;
+        font-size:14px;
+        font-weight:200;
+        font-family:"gotham",sans-serif;
+        width:100%;
+        height:100%;
+        color:#fff;
+        text-align:center;
+        line-height:40px;
+
+        &:before{
+            display:block;
+            content:"";
+            position:absolute;
+            width:1px;
+            height:0;
+            background:#b7b3b5;
+            bottom:0;
+            right:0;
+        }
+
+        &:after{
+            display:block;
+            content:"";
+            position:absolute;
+            width:0;
+            height:1px;
+            background:#b7b3b5;
+            top:0;
+            right:0;
+        }
+    }
 }
