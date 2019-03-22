@@ -168,14 +168,12 @@
 }
 
 .mainVisual{
-    height:820px;
     position: relative;
 
     &-wrap{
-        height:100%;
-        border:0;
 
         &-slider{
+            height:100%;
 
             &-item{
                 width:100%;
@@ -239,7 +237,7 @@
         top:50%;
         right:37px;
         width:auto;
-        margin-top:-51.5px;
+        margin-top:-40px;
     }
     .bx-wrapper .bx-pager-item{
         display:block;
@@ -1160,7 +1158,11 @@
 
 @media screen and (max-width:640px){
 
-    .mainVisual-wrap-ext{
+    .mainVisual-wrap-slider-item{
+        height:100vh;
+    }
+
+    .mainVisual-wrap-text{
 
         &-heading{
             font-size:40px;
