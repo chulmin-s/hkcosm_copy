@@ -10,3 +10,9 @@ $(function () {
         easing: 'ease-out'
     });
 });
+
+$(function(){
+    $('.gnb-btn').on("click",function(){
+        $('.header-bottom').toggleClass('on');
+    });
+});
